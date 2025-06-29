@@ -22,5 +22,5 @@ Thumbs.db
 # arquivos do VS Code
 .vscode/
 teste.ipynb
-
+convert_notebook.py
 
